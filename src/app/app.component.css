@@ -1,0 +1,12 @@
+.active {
+    color: green;
+}
+
+.negative {
+    color: red;
+    font-weight: bold;
+}
+
+.pending {
+    color: rgb(194, 194, 194)
+}
